@@ -1,0 +1,15 @@
+.header-text {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile-content{
+    background-color: antiquewhite;
+    margin: 10px;
+}
+
+.profile-title{
+    text-align: left;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
